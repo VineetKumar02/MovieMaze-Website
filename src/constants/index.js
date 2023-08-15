@@ -1,0 +1,1 @@
+export const apiKey = 'YOUR_OMDB_API_KEY';
